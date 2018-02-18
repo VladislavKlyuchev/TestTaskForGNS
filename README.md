@@ -1,18 +1,32 @@
-# task
+# Project Title
 
-> Test task for GNS 
+Example task for GNS company
 
-## Build Setup
+## Getting Started
 
-``` bash
-# install dependencies
-npm install
+    You need have node.js
 
-# serve with hot reload at localhost:8080
-npm run dev
+### Prerequisites
 
-# build for production with minification
-npm run build
-```
+ ```
+   npm install vue -g
+   npm install vue-cli -g
+   ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### Installing
+   ```
+   npm install
+   npm run dev
+   ```
+
+
+## Deployment
+
+A
+## Authors
+
+ Vladislav Klyuchev
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
